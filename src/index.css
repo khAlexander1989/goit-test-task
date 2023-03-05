@@ -2,9 +2,9 @@
 
 body {
   margin: 0;
-  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
-    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
-    sans-serif;
+  font-family: -apple-system, BlinkMacSystemFont, 'Montserrat', 'Segoe UI',
+    'Roboto', 'Oxygen', 'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans',
+    'Helvetica Neue', sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
 }
@@ -12,4 +12,41 @@ body {
 code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
+}
+
+/* ---------СБРОС ВНЕШНИХ ОТСТУПОВ--------- */
+
+body,
+p,
+h1,
+h2,
+h3,
+h4,
+p,
+ul {
+  margin: 0px;
+  padding: 0px;
+}
+
+/* ---------СБРОС СТИЛИЗАЦИИ СПИСКОВ--------- */
+
+ul {
+  list-style: none;
+}
+
+/* ---------СБРОС ИЗОБРАЖЕНИЙ ПО УМОЛЧАНИЮ--------- */
+
+img {
+  max-width: 100%;
+  display: block;
+}
+
+button {
+  cursor: pointer;
+  outline: none;
+  border: none;
+}
+
+div {
+  box-sizing: border-box;
 }

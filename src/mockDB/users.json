@@ -1,0 +1,72 @@
+[
+  {
+    "id": 1,
+    "user": "Glenda Hicks",
+    "avatarURL": "https://res.cloudinary.com/dkvimwpoo/image/upload/v1677974669/Tweet-card-avatars/Glenda-Hicks-avatar_om8ntb.png",
+    "tweets": 777,
+    "followers": 1153
+  },
+  {
+    "id": 2,
+    "user": "Julie Williams",
+    "avatarURL": "https://res.cloudinary.com/dkvimwpoo/image/upload/v1677974669/Tweet-card-avatars/Julie-Williams-avatar_v6umaj.png",
+    "tweets": 101,
+    "followers": 551
+  },
+  {
+    "id": 3,
+    "user": "Earl Barber",
+    "avatarURL": "https://res.cloudinary.com/dkvimwpoo/image/upload/v1677974669/Tweet-card-avatars/Earl-Barber-avatar_n1kajp.png",
+    "tweets": 901,
+    "followers": 50000
+  },
+  {
+    "id": 4,
+    "user": "Amanda Young",
+    "avatarURL": "https://res.cloudinary.com/dkvimwpoo/image/upload/v1677974669/Tweet-card-avatars/Amanda-Young-avatar_lk4u2o.png",
+    "tweets": 333,
+    "followers": 71001
+  },
+  {
+    "id": 5,
+    "user": "Joe Roberts",
+    "avatarURL": "https://res.cloudinary.com/dkvimwpoo/image/upload/v1677974669/Tweet-card-avatars/Joe-Roberts-avatar_brgqgi.png",
+    "tweets": 21,
+    "followers": 13
+  },
+  {
+    "id": 6,
+    "user": "Julie Wilson",
+    "avatarURL": "https://res.cloudinary.com/dkvimwpoo/image/upload/v1677974670/Tweet-card-avatars/Julie-Wilson-avatar_eef8if.png",
+    "tweets": 1001,
+    "followers": 100500
+  },
+  {
+    "id": 7,
+    "user": "Cynthia Allen",
+    "avatarURL": "https://res.cloudinary.com/dkvimwpoo/image/upload/v1677974669/Tweet-card-avatars/Cynthia-Allen-avatar_wqjt16.png",
+    "tweets": 251,
+    "followers": 1556
+  },
+  {
+    "id": 8,
+    "user": "Clinton Hoffman",
+    "avatarURL": "https://res.cloudinary.com/dkvimwpoo/image/upload/v1677974669/Tweet-card-avatars/Clinton-Hoffman-avatar_vc3xvc.png",
+    "tweets": 911,
+    "followers": 250013
+  },
+  {
+    "id": 9,
+    "user": "Charles Berry",
+    "avatarURL": "https://res.cloudinary.com/dkvimwpoo/image/upload/v1677974669/Tweet-card-avatars/Charles-Berry-avatar_fdhvg4.png  ",
+    "tweets": 487,
+    "followers": 20253
+  },
+  {
+    "id": 10,
+    "user": "Valerie Jones",
+    "avatarURL": "https://res.cloudinary.com/dkvimwpoo/image/upload/v1677974669/Tweet-card-avatars/Valerie-Jones-avatar_tfm7xc.png",
+    "tweets": 20011,
+    "followers": 1000153121
+  }
+]
